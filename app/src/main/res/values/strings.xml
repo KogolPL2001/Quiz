@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="button_true">Prawda</string>
+    <string name="button_false">Fałsz</string>
+    <string name="button_next">Następne Pytanie</string>
+    <string name="first_q">Więcej niż jedno zwierzę to lama.</string>
+    <string name="second_q">Kilogram żelaza jest cięższy od kilograma piór.</string>
+    <string name="third_q">Java to dobry język programowania.</string>
+    <string name="fourth_q">Kto pyta nie błądzi.</string>
+    <string name="fifth_q">Systemy mobilne rzeczywiście są spoko.</string>
+    <string name="correct_answer">Prawidłowa odpowiedź.</string>
+    <string name="incorrect_answer">Nieprawidłowa odpowiedź.</string>
+</resources>
